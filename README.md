@@ -1,4 +1,6 @@
 # SegPE
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBENMFeng%2FSegPE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBENMFeng%2FSegPE?ref=badge_shield)
+
 
 A simple program for classifing and separating paired-ends (PE) FASTQ after removing adapters via adapter-index seq
 
@@ -51,3 +53,6 @@ time RUST_LOG=INFO ./target/release/segpe --five-art-fa data/5_art.fa --three-ar
 
 ^Licensed under either of [**Apache License, Version 2.0**](./LICENSE) or [**MIT license**](./LICENSE) at your option.^
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in this crate by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBENMFeng%2FSegPE.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBENMFeng%2FSegPE?ref=badge_large)
